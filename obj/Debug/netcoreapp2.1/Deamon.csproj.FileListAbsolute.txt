@@ -1,0 +1,11 @@
+C:\Users\pruebastemp1\Desktop\pse financiacion\Deamon\bin\Debug\netcoreapp2.1\Deamon.deps.json
+C:\Users\pruebastemp1\Desktop\pse financiacion\Deamon\bin\Debug\netcoreapp2.1\Deamon.runtimeconfig.json
+C:\Users\pruebastemp1\Desktop\pse financiacion\Deamon\bin\Debug\netcoreapp2.1\Deamon.runtimeconfig.dev.json
+C:\Users\pruebastemp1\Desktop\pse financiacion\Deamon\bin\Debug\netcoreapp2.1\Deamon.dll
+C:\Users\pruebastemp1\Desktop\pse financiacion\Deamon\bin\Debug\netcoreapp2.1\Deamon.pdb
+C:\Users\pruebastemp1\Desktop\pse financiacion\Deamon\obj\Debug\netcoreapp2.1\Deamon.csprojAssemblyReference.cache
+C:\Users\pruebastemp1\Desktop\pse financiacion\Deamon\obj\Debug\netcoreapp2.1\Deamon.csproj.CoreCompileInputs.cache
+C:\Users\pruebastemp1\Desktop\pse financiacion\Deamon\obj\Debug\netcoreapp2.1\Deamon.AssemblyInfoInputs.cache
+C:\Users\pruebastemp1\Desktop\pse financiacion\Deamon\obj\Debug\netcoreapp2.1\Deamon.AssemblyInfo.cs
+C:\Users\pruebastemp1\Desktop\pse financiacion\Deamon\obj\Debug\netcoreapp2.1\Deamon.dll
+C:\Users\pruebastemp1\Desktop\pse financiacion\Deamon\obj\Debug\netcoreapp2.1\Deamon.pdb
